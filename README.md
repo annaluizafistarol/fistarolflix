@@ -50,14 +50,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br><br><br>
 
 ## 🌺 Forma de contato
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/">
-  <img align="left" alt="Anna-pic" height="100rem" style="border-radius:0.5rem; margin-right:3rem;" src="https://media.licdn.com/dms/image/D4D03AQEQu6kp1suoaA/profile-displayphoto-shrink_200_200/0/1702769754300?e=1716422400&v=beta&t=_mFasDyCVQZxCuQ2s_twUkLSEdbej9YVUjQEbmxWd14">
-  Caso tenha alguma sugestão ou queira entrar em contato, fico a disposição 🥰💖
-</div>
-<br>
 <div>
-  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anna-luiza-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
